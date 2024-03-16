@@ -1,0 +1,7 @@
+D:\C# Project\tpmodul5_1302223071\tpmodul5_1302223071\bin\Debug\tpmodul5_1302223071.exe.config
+D:\C# Project\tpmodul5_1302223071\tpmodul5_1302223071\bin\Debug\tpmodul5_1302223071.exe
+D:\C# Project\tpmodul5_1302223071\tpmodul5_1302223071\bin\Debug\tpmodul5_1302223071.pdb
+D:\C# Project\tpmodul5_1302223071\tpmodul5_1302223071\obj\Debug\tpmodul5_1302223071.csproj.AssemblyReference.cache
+D:\C# Project\tpmodul5_1302223071\tpmodul5_1302223071\obj\Debug\tpmodul5_1302223071.csproj.CoreCompileInputs.cache
+D:\C# Project\tpmodul5_1302223071\tpmodul5_1302223071\obj\Debug\tpmodul5_1302223071.exe
+D:\C# Project\tpmodul5_1302223071\tpmodul5_1302223071\obj\Debug\tpmodul5_1302223071.pdb
