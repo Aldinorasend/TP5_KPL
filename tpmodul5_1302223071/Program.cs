@@ -17,6 +17,14 @@ namespace tpmodul5_1302223071
             Console.WriteLine($"Data yang tersimpan adalah: {Data}");
         }
     }
+    public class HaloGeneric
+    {
+        public void SapaUser<T>(T userName)
+        {
+            Console.WriteLine($"Halo user {userName}");
+        }
+    }
+
     class Program
     {
         
@@ -27,7 +35,13 @@ namespace tpmodul5_1302223071
             stringData.PrintData(); 
             DataGeneric<string> nimData = new DataGeneric<string>("1302223071");
             nimData.PrintData(); 
-            Console.ReadLine();
+           
+            HaloGeneric halo = new HaloGeneric();
+
+            
+            string namaPanggilan = "Rasend";
+            halo.SapaUser(namaPanggilan);
+            Console.Read();
         }
     }
 }
